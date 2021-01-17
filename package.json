@@ -1,0 +1,35 @@
+{
+  "name": "pagination-draft",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@react-bootstrap/react-popper": "1.2.1",
+    "axios": "0.21.1",
+    "racf": "1.0.6",
+    "react": "17.0.0",
+    "react-bootstrap": "1.4.3",
+    "react-bootstrap-toggle": "2.3.2",
+    "react-dom": "17.0.0",
+    "react-scripts": "3.4.3",
+    "react-uuid": "1.0.2",
+    "reactstrap": "8.8.1",
+    "uuid": "8.3.2"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

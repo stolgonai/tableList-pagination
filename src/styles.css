@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/* .list-item {
+  border: 1px solid grey;
+} */
+table,
+li.page-item {
+  border-collapse: collapse;
+}
+table td,
+table th,
+.list-item,
+li.page-item {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+table tr:hover {
+  background-color: #ddd;
+}
+table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+ul li,
+a {
+  display: inline;
+  text-decoration: none;
+}
